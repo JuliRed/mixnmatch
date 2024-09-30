@@ -1,0 +1,18 @@
+/* Home.css */
+.nav-button {
+  background-color: #4caf50; /* Green background */
+  border: none; /* No border */
+  color: white; /* White text */
+  padding: 10px 20px; /* Some padding */
+  text-align: center; /* Centered text */
+  text-decoration: none; /* Remove underline */
+  display: inline-block; /* Inline-block for button layout */
+  font-size: 16px; /* Increase font size */
+  margin: 4px 2px; /* Margins around buttons */
+  cursor: pointer; /* Pointer cursor on hover */
+  border-radius: 5px; /* Rounded corners */
+}
+
+.nav-button:hover {
+  background-color: #45a049; /* Darker green on hover */
+}
